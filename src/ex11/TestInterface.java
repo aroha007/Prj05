@@ -13,19 +13,19 @@ class job implements Ipo {
 
 	@Override
 	public void input() {
-		// TODO Auto-generated method stub
+		System.out.println("input");
 		
 	}
 
 	@Override
 	public void process() {
-		// TODO Auto-generated method stub
+		System.out.println("process");
 		
 	}
 
 	@Override
 	public void output() {
-		// TODO Auto-generated method stub
+		System.out.println("output");
 		
 	}
 	
