@@ -1,6 +1,7 @@
 package ex11;
 // interface 특징 : 규칙을 부여, 통일성
 
+
 interface Ipo{
 	void input();
 	void process();
